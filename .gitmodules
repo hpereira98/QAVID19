@@ -1,0 +1,12 @@
+[submodule "QAVID19_processor"]
+	path = QAVID19_processor
+	url = https://github.com/hpereira98/QAVID19_processor.git
+[submodule "QAVID19_crawler"]
+	path = QAVID19_crawler
+	url = https://github.com/hpereira98/QAVID19_crawler.git
+[submodule "QAVID19_chatbot"]
+	path = QAVID19_chatbot
+	url = https://github.com/hpereira98/QAVID19_chatbot.git
+[submodule "QAVID19_mobile"]
+	path = QAVID19_mobile
+	url = https://github.com/hpereira98/QAVID19_mobile.git
