@@ -7,6 +7,6 @@
 [submodule "QAVID19_chatbot"]
 	path = QAVID19_chatbot
 	url = https://github.com/hpereira98/QAVID19_chatbot.git
-[submodule "QAVID19_mobile"]
-	path = QAVID19_mobile
-	url = https://github.com/hpereira98/QAVID19_mobile.git
+[submodule "QAVID19_frontend"]
+	path = QAVID19_frontend
+	url = https://github.com/hpereira98/QAVID19_frontend.git
